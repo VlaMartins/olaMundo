@@ -15,7 +15,7 @@ header{
 }
 
 h2{
-    color:rgb(197, 244, 247) 221, 255);
+    color:rgb((197, 244, 247) 221, 255);
 }
 
 footer{
@@ -28,7 +28,7 @@ footer{
 #nome-usuário{
     font-weight: bold;
     font-size: 18px;
-    
+
 }
 
 .texto-inglês{
